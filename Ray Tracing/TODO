@@ -1,0 +1,8 @@
+- Fix the errors in shading
+- Implement handling of the mirror-like objects
+- Look into https://en.wikipedia.org/wiki/Fast_inverse_square_root
+- Possibly implement an accelaration structure
+- Possibly utilize multithreading
+- Possibly create interesting inputs
+    - Find interesting models
+    - Create a script that generates inputs from these models
